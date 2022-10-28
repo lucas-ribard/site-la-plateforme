@@ -231,7 +231,8 @@ footer{
 }
 
 #ligne-fin{
-    height: 50px;
+    padding: 10px 210px 10px;
+    font-family: 'Roboto', sans-serif;
     background-color: black;
     color: white;
 }
